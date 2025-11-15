@@ -102,6 +102,6 @@ Then open your browser at: [http://localhost:8501](http://localhost:8501) 🎉
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by Guthi Bharadwaz ✨
+Developed with ❤️ by Shivarathri Vamshi ✨
 
 ```
